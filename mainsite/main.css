@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&display=swap');
+
+body{
+	font-family: 'Playfair Display', serif;
+	margin: 0;
+	
+}
+
+.head{ 
+	background-color:#800000 ;
+}	 
+
+header a{
+	font-size:35px;
+	margin-left:4em ;
+	text-decoration:none ;
+	font-weight: bold;
+	text-transform:uppercase ;
+	color: whitesmoke;
+}
+
+header h1{
+	text-align: center;
+	font-size:50px;
+	color: whitesmoke;
+}
+
+.janrove 
+{
+	background:url("pictures/bgv.jpg");
+		padding-bottom:42em;
+		background-size:100% ;
+		background-position:50% 50% ;
+		margin-top: -2.5em;
+}
+.janrove ul{
+list-style-type:none ;
+margin-left:4em;
+font-size:40px;
+}
+.janrove li a{
+	padding: .5em;
+	text-decoration:none ;
+	color: #F2F2F2;
+
+	
+}
